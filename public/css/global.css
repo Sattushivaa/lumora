@@ -93,3 +93,7 @@ menu li>ul.active>span {
     font-family: sans-serif;
     font-size: 14px;
 }
+
+#map {
+    min-height: 80vh;
+}
